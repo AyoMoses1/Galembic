@@ -1,0 +1,136 @@
+body{
+    font-family: 'Frank Ruhl Libre' , serif;
+}
+/* My Headers*/
+h1{
+    font-size: 48px;
+}
+h2{
+    font-size:36px;
+}
+h3{
+    font-size:32px;
+    font-weight:300px;
+}
+h4{
+    font-size:22px;
+}
+h5{
+    font-size:13px;
+}
+/* My links */
+a{
+    font-size:15px;
+}
+button{
+    font-size:13px;
+}
+/* My paragraphs */
+p{
+    font-size:16px;
+}
+/* About section */
+.parent-div{
+    position:relative;
+}
+.child-img1{
+    position:absolute;
+    top:45px;
+    left:-40px;
+}
+.child-img{
+    position:fixed;
+}
+#hero{
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("../images/bg-hero.png");
+    background-size: cover;
+    color:white;
+}
+.hero-high{
+    color:#ED3237;
+}
+.product-paragraph{
+    color:#830003;
+}
+#applications{
+    background-color:#FFFBFB;
+}
+#services{
+    background-color:#FFFBFB;
+}
+.emergency-bg{
+    background-image:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("../images/5e696c6b47636379e0b09a7e0f1f31cc.png");
+}
+.fabrication-bg{
+    background-image:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("../images/82f4c7d7ac3a5e7d0d5b74c9befb1f68.png");
+}
+.marine-bg{
+    background-image:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("../images/00f6b48dbf832768cf569ac86c96ca22.png");
+}    
+.marine-bg, .emergency-bg, .fabrication-bg{
+    padding-top:255px;
+    padding-bottom:31px;
+    background-size:cover;
+    color:white;
+}
+#footer{
+    background-color:#EFEFEF;
+}
+#footer-copyright{
+    background-color:#E3E3E3;
+}
+.about-btn,.services-btn a{
+    color:white;
+    background-color:#ED3237;
+    border:1px solid #ED3237; 
+}
+.about-btn:hover, .services-btn a:hover{
+    text-decoration:none;
+    color:white;
+    border-radius:1px 7px 1px 13px; 
+}
+.product-btn{
+    color:#830003;
+    font-weight:700;
+}
+.product-btn:hover{
+    text-decoration:none;
+    font-weight:800;
+    color:#830003;
+}
+#footer a{
+    color:#252627;
+    text-decoration:none;
+}
+#footer a:hover{
+    font-weight:bold;
+}
+.section-headers{
+    color:#ED3237;
+    font-weight:bold;
+}
+.service-blog{
+    margin-top:60px;
+}
+.solution{
+    font-size:34px;
+}
+.contact-link{
+    border: 1px solid #ED3237;
+    border-radius:3px;
+    color:#ED3237;
+    font-weight:400;
+}
+.contact-link:hover{
+    color:white;
+    background-color:#ED3237;
+    border-radius: 1px 20px 1px 20px;
+}
+.nav-links{
+    color:black;
+}
+.nav-links:hover{
+    text-decoration:none;
+    color:black;
+    font-weight:500;
+}

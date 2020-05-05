@@ -1,0 +1,79 @@
+/* navigation section */
+.contact-link{
+    margin-left:354.5px;
+    padding:10px;
+}
+/* hero section */
+#hero{
+    padding-top:290px;
+    padding-bottom:48px;
+}
+/*products section*/
+#products{
+    padding-top:110px;
+    padding-bottom:151px;
+}
+.product-blogs{
+    padding-left:50px;
+}
+.product-paragraph{
+    padding-left:50px;
+    margin-top:10px;
+}
+.product-headers{
+    padding-top:;
+    padding-bottom:60px;
+}
+/* application section */
+#applications{
+    padding-top:117px;
+    padding-bottom:80px;
+}
+.uses{
+    padding-left:190px;
+    padding-right:100px;
+    margin:60px auto 147px auto;
+}
+.image-alignment{
+    padding-bottom:36px;
+}
+.image-alignment p{
+    padding-top:20px;
+}
+.par-align{
+    padding-top:20px;
+}
+
+/* about section */
+.about{
+    padding:110px 118px 110px 100.5px;
+}
+#services{
+    padding-top:110px;
+}
+#partners{
+    padding:110px 173px 116px 110px;
+}
+#footer{
+    padding:110px 76px 107px 100px;
+}
+#footer-copyright{
+    padding-top:31px;
+    padding-bottom:31px;
+}
+.emergency-bg, .fabrication-bg{
+    margin-right:50px;
+}
+.services-btn{
+    margin-top:50px;
+    margin-bottom:88px;
+}
+.about-btn, .services-btn a{
+    padding:10px 30px 10px 30px;
+}
+.section-headers{
+    padding-bottom:48px;
+}
+.section-adjust{
+    padding-left:20px;
+}
